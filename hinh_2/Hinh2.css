@@ -1,0 +1,29 @@
+#wrapper{
+    max-width: 600px;
+    margin: 0 auto;
+}
+#header{
+    background-color:#e9d8f4;
+    text-align: center;
+    padding:  15px;
+    color: 
+    #58257b ;
+}
+.CN{
+    background-color:#58257b ;
+    display: flex;
+}
+.CN1{
+    margin: 35px 15px;
+}
+.CN2{
+    margin: 60px 15px;
+}
+.Cn-item{
+    color: rgb(255, 255, 255);
+    margin: 0 10px;
+    display:inline;
+}
+ul,li {
+    padding: 5px;
+}
